@@ -1,5 +1,5 @@
 #
-# Copyright (C) 2021-2025 The LineageOS Project
+# Copyright (C) 2021-2025 The StaticOS Project
 #
 # SPDX-License-Identifier: Apache-2.0
 #
